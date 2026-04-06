@@ -17,9 +17,10 @@ Além disso, o projeto permite exportar os gráficos em formatos como imagem ou 
 * React JS
 * React Router
 * Tailwind CSS
-* Canvas 
+* Canvas
+* TypeScript
 
-## ⚙️ Como rodar (atualizar tópico)
+## ⚙️ Como rodar
 
 ```bash
 # Clonar repositório
@@ -47,7 +48,7 @@ src/
 
 ## 🔥 Funcionalidades (atualizar tópico)
 
-* Cria projetos (com nome, altura e largura)
+* Criar projetos (com nome, altura e largura)
 * Funcionalidade 2
 * Funcionalidade 3
 
