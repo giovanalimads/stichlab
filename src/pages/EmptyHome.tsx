@@ -5,7 +5,7 @@ function EmptyHome() {
     <div>
       {/* logo */}
       <div>
-        <h1 className="text-bl">Stichlab</h1>
+        <h1 className="text-blue-900 text-3xl font-bold ">Stichlab</h1>
       </div>
       {/* dash sem projetos */}
       <div>
