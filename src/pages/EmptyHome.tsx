@@ -5,9 +5,7 @@ function EmptyHome() {
     <div>
       {/* logo */}
       <div>
-        <h1 className="logo" class="bg-blue-500 p-4 rounded">
-          Stichlab
-        </h1>
+        <h1 className="text-bl">Stichlab</h1>
       </div>
       {/* dash sem projetos */}
       <div>
@@ -16,7 +14,7 @@ function EmptyHome() {
           <p>
             Você ainda não criou nenhum gráfico
             <br />
-            Crie seu primeiro projeto e comece a bordar!
+            Crie seu primeiro projeto e comece a bordar! oi
           </p>
         </div>
       </div>
